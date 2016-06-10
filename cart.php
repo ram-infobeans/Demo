@@ -1,3 +1,3 @@
 <?php
-echo "Cart Page";
+echo "This is Cart Page";
 
