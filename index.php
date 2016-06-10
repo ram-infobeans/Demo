@@ -1,2 +1,2 @@
 <?php
-echo "test page";
+echo "this is test page";
