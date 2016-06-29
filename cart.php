@@ -1,3 +1,3 @@
 <?php
-echo "This is edited Cart Pae";
+echo "This is cart";
 ?>
